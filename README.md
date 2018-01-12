@@ -6,9 +6,6 @@
 
 ![Algorithm](https://github.com/Decalogue/AlgorithmMap/blob/master/img/algorithm.jpg "Algorithm")
 
-## Plan
-
-![plan](https://github.com/Decalogue/AlgorithmMap/blob/master/img/plan.jpg "plan")
 
 ## [LeetCode 刷题之旅（使用 Python, C++, Java 实现） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/leetcode)
 
