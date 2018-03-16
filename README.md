@@ -7,16 +7,17 @@
 ![Algorithm](https://github.com/Decalogue/AlgorithmMap/blob/master/img/algorithm.jpg "Algorithm")
 
 
-## [LeetCode 刷题之旅（使用 Python, C++, Java 实现） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/leetcode)
+## 基础算法
 
-`Linked List 链表`
+### [LeetCode 刷题之旅（使用 Python, C++, Java 实现） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/leetcode)
 
-[108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md)
 
-[109. Convert Sorted List to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/109.md)
+## 机器学习
 
-[算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
+### [《机器学习》周志华（笔记、习题、代码） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/ml/ml_zhou)
 
+
+## 深度学习
 
 `Copyright © 2018 Rain. All Rights Reserved.`
 
