@@ -6,6 +6,14 @@
 
 [109. Convert Sorted List to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/109.md)
 
+[206. Reverse Linked List](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/206.md)
+
+`String 字符串`
+
+[5. Longest Palindromic Substring](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/5.md)
+
+[647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md)
+
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
 `Copyright © 2018 Rain. All Rights Reserved.`
