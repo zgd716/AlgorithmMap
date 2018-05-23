@@ -9,7 +9,7 @@
 
 ## 基础算法
 
-### [LeetCode 刷题之旅（使用 Python, C++, Java 实现） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/leetcode)
+### [高效刷 LeetCode（使用 Python, C++, Java 实现） 👆](https://github.com/Decalogue/AlgorithmMap/tree/master/leetcode)
 
 
 ## 机器学习
