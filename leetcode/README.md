@@ -14,6 +14,8 @@
 
 [647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md)
 
+[9. Palindrome Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/9.md)
+
 [算法笔记模板](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/template.md)
 
 `Copyright © 2018 Rain. All Rights Reserved.`
