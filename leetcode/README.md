@@ -1,4 +1,8 @@
-# LeetCode 刷题之旅
+# 高效刷 LeetCode
+
+`Array 数组`
+
+[1. Two Sum](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/1.md)
 
 `Linked List 链表`
 
