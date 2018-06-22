@@ -2,7 +2,7 @@
 
 `Building Your Algorithm Map.`
 
-`建立你的算法地图`
+`建立你的算法地图；算法工程师：从小白到专家`
 
 ![Algorithm](https://github.com/Decalogue/AlgorithmMap/blob/master/img/algorithm.jpg "Algorithm")
 
