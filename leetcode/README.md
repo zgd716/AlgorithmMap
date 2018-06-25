@@ -6,6 +6,8 @@
 
 [167. Two Sum II - Input array is sorted](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/167.md)
 
+[300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md)
+
 `Linked List 链表`
 
 [108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md)
@@ -20,7 +22,13 @@
 
 [9. Palindrome Number](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/9.md)
 
+[28. Implement strStr()](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/28.md)
+
+[46. Permutations](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/46.md)
+
 [125. Valid Palindrome](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/125.md)
+
+[680. Valid Palindrome II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/680.md)
 
 [647. Palindromic Substrings](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/647.md)
 
