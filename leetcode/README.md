@@ -10,6 +10,8 @@
 
 `Linked List 链表`
 
+[2. Add Two Numbers](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/2.md)
+
 [108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md)
 
 [109. Convert Sorted List to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/109.md)
@@ -27,6 +29,8 @@
 [46. Permutations](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/46.md)
 
 [125. Valid Palindrome](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/125.md)
+
+[383. Ransom Note](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/383.md)
 
 [680. Valid Palindrome II](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/680.md)
 
