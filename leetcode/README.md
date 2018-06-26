@@ -6,11 +6,19 @@
 
 [167. Two Sum II - Input array is sorted](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/167.md)
 
+[35. Search Insert Position](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/35.md)
+
 [300. Longest Increasing Subsequence](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/300.md)
+
+`Stack 栈`
+
+[20. Valid Parentheses](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/20.md)
 
 `Linked List 链表`
 
 [2. Add Two Numbers](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/2.md)
+
+[21. Merge Two Sorted Lists](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/21.md)
 
 [108. Convert Sorted Array to Binary Search Tree](https://github.com/Decalogue/AlgorithmMap/blob/master/leetcode/108.md)
 
